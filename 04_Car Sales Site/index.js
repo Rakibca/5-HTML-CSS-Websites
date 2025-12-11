@@ -1,5 +1,3 @@
-// javascript
-
 const menuBtn = document.querySelector('.menu');
 panel = document.querySelector('.filter');
 panelStyles = window.getComputedStyle(panel);

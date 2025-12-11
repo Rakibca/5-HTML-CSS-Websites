@@ -1,5 +1,3 @@
-// javascript
-
 const menuBtn = document.querySelector('.menu-btn');
 menu = document.querySelector('nav ul');
 exitBtn = document.querySelector('.exit-btn');
